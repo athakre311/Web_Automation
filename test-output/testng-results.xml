@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-07T08:45:05 IST" name="Suite" finished-at="2024-06-07T08:45:16 IST" duration-ms="10607">
+    <groups>
+    </groups>
+    <test started-at="2024-06-07T08:45:05 IST" name="Test" finished-at="2024-06-07T08:45:16 IST" duration-ms="10607">
+      <class name="com.qa.testCase.Login">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testCase.Login@54a67a45]" started-at="2024-06-07T08:45:05 IST" name="setup" finished-at="2024-06-07T08:45:15 IST" duration-ms="9844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithIncorrectCredentials()[pri:0, instance:com.qa.testCase.Login@54a67a45]" started-at="2024-06-07T08:45:15 IST" name="loginWithIncorrectCredentials" finished-at="2024-06-07T08:45:15 IST" duration-ms="404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithIncorrectCredentials -->
+        <test-method is-config="true" signature="close001()[pri:0, instance:com.qa.testCase.Login@54a67a45]" started-at="2024-06-07T08:45:15 IST" name="close001" finished-at="2024-06-07T08:45:16 IST" duration-ms="312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close001 -->
+      </class> <!-- com.qa.testCase.Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
